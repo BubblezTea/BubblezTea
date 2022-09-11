@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @BubblezTea
+- 👀 I’m interested in code.
+- 🌱 I’m currently learning lua.
+- 💞️ I’m looking to collaborate on whenever i want.
+- 📫 How to reach me you don't.
+- you can stop reading now.
